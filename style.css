@@ -191,7 +191,7 @@ footer a:hover{
         top: 0;
     }
     to {
-        left: -10vw;
+        left: -5vw;
         top: 0;
     }
 }
@@ -201,7 +201,7 @@ footer a:hover{
     width: auto;
     position: absolute;
     animation-name: pasando-por-el-canal;
-    animation-duration: 20s;
+    animation-duration: 18s;
     animation-iteration-count: infinite;
 }
 
